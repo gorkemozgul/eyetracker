@@ -20,7 +20,6 @@ of keyboards.
 • time
 • pyglet
 
-49
 
 A.3. Overview of Eye Tracker
 
