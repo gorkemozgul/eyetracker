@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/2df953e6-bc94-429f-91b9-6d90a0d9c225)
 A.1. Overview of Virtual Keyboard
 
 Three keyboard implementations are written on Python. It is recommended for users to
