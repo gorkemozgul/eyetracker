@@ -1,5 +1,3 @@
-![Alt Text](Documentation/eye_tracker_presentation.jpg)
-
 A.1. Overview of Virtual Keyboard
 
 Three keyboard implementations are written on Python. It is recommended for users to
